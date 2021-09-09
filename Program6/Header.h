@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 
 int DisplayFactorial(int iNo1);
 
