@@ -1,5 +1,5 @@
 
-#include <iostream>				// Input Output stream
+#include <stdio.h>				// Input Output stream
 
 typedef int BOOLEAN;
 
